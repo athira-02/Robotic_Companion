@@ -1,0 +1,3 @@
+Uses data from the sketchy scene dataset which contains scenes and a list of objects present in the scene. 
+
+main.py - contains several models to predict what object to add to a given scene. Each scene has some object removed and the goal of the model is the predict the removed object. Perplexity is used to test each model's performance.
