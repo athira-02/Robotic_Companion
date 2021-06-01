@@ -1,0 +1,1000 @@
+ReceivesAction	hockey	play on ice	3.4594316186372978
+AtLocation	restroom	rest area	3.4594316186372978
+HasPrerequisite	eat breakfast	make breakfast	3.4594316186372978
+AtLocation	book	table	3.4594316186372978
+AtLocation	dust	refrigerator	3.4594316186372978
+UsedFor	letter	communication	3.4594316186372978
+UsedFor	dynamite	blow thing up	3.4594316186372978
+AtLocation	shade	window	3.4594316186372978
+HasA	cat	eye	3.4594316186372978
+AtLocation	cat	bag	3.4594316186372978
+IsA	rook	chess piece	3.4594316186372978
+IsA	quartz	mineral	3.4594316186372978
+AtLocation	something	barn	3.4594316186372978
+NotCapableOf	you	judge book by it cover	3.4594316186372978
+UsedFor	planet	live on	3.4594316186372978
+AtLocation	eraser	desk	3.4594316186372978
+UsedFor	buy present	christmas	3.4594316186372978
+UsedFor	saloon	drink	3.4594316186372978
+AtLocation	piece	information in book	3.4594316186372978
+AtLocation	someone	university	3.4594316186372978
+Causes	find lose item	happiness	3.4594316186372978
+UsedFor	door	enter room	3.4594316186372978
+HasPrerequisite	kill	get weapon	3.4594316186372978
+HasPrerequisite	destroy your enemy	plan	3.4594316186372978
+HasA	garden	flower	3.4594316186372978
+HasSubevent	sew	thread needle	3.4594316186372978
+UsedFor	forklift	move heavy object	3.4594316186372978
+IsA	lightning	electricity	3.4594316186372978
+AtLocation	casket	funeral	3.4594316186372978
+ReceivesAction	tax	pay	3.4594316186372978
+IsA	axe	tool	3.4594316186372978
+HasPrerequisite	propose to woman	buy ring	3.4594316186372978
+CausesDesire	be tire	sleep	3.4594316186372978
+AtLocation	vacuum	space	3.4594316186372978
+HasProperty	read book	fun	3.4594316186372978
+Desires	person	vacation	3.4594316186372978
+AtLocation	stair	build	3.4594316186372978
+UsedFor	tan lotion	prevent sunburn	3.4594316186372978
+CapableOf	wind	blow to east	3.4594316186372978
+HasSubevent	stop your car	brake	3.4594316186372978
+HasPrerequisite	ride horse	put saddle on horse	3.4594316186372978
+UsedFor	glass of milk	drink	3.4594316186372978
+Causes	express yourself	embarrassment	3.4594316186372978
+HasSubevent	entertain person	sing	3.4594316186372978
+AtLocation	person	apartment	3.4594316186372978
+ReceivesAction	paper	write on	3.4594316186372978
+Causes	buy present for others	happiness	3.4594316186372978
+CapableOf	cat	drink milk	3.4594316186372978
+AtLocation	news	television	3.4594316186372978
+HasSubevent	bury cat	cry	3.4594316186372978
+UsedFor	dish	eat thing off of	3.4594316186372978
+UsedFor	burlap	make bag	3.4594316186372978
+AtLocation	something	bottom of lake	3.4594316186372978
+AtLocation	box	basement	3.4594316186372978
+IsA	verb	word	3.4594316186372978
+AtLocation	table	resturant	3.4594316186372978
+HasSubevent	see your favorite show	laugh	3.4594316186372978
+AtLocation	book	university	3.4594316186372978
+AtLocation	glue stick	desk	3.4594316186372978
+UsedFor	boat	fish	3.4594316186372978
+IsA	eiffel tower	in paris france	3.4594316186372978
+CapableOf	ship	weather storm	3.4594316186372978
+UsedFor	play sport	win	3.4594316186372978
+CapableOf	wire	short circuit	3.4594316186372978
+Causes	swim	drown	3.4594316186372978
+CapableOf	beaver	build dam	3.4594316186372978
+HasPrerequisite	take in film	go to cinema	3.4594316186372978
+AtLocation	toilet	rest area	3.4594316186372978
+AtLocation	cemetery	city	3.4594316186372978
+CapableOf	grocer	bag grocery	3.4594316186372978
+HasPrerequisite	read newspaper	know how to read	3.4594316186372978
+CapableOf	apple	fall from tree	3.4594316186372978
+HasPrerequisite	talk with someone far away	call them on phone	3.4594316186372978
+HasA	apple	seed	3.4594316186372978
+UsedFor	bridge	cross water	3.4594316186372978
+Causes	have shower	get clean	3.4594316186372978
+Causes	live life	happiness	3.4594316186372978
+HasA	each hand	one thumb	3.4594316186372978
+AtLocation	wait room	doctor	3.4594316186372978
+HasSubevent	attend meet	take note	3.4594316186372978
+CapableOf	speaker	field question	3.4594316186372978
+HasPrerequisite	listen to radio	tune in station	3.4594316186372978
+HasSubevent	play poker	lose money	3.4594316186372978
+CapableOf	girl	meet boy	3.4594316186372978
+AtLocation	something	surface	3.4594316186372978
+CapableOf	passenger	board ship	3.4594316186372978
+CapableOf	moses	part red sea	3.4594316186372978
+UsedFor	arm	wave	3.4594316186372978
+HasPrerequisite	get pay	get job	3.4594316186372978
+HasSubevent	watch movie	cry	3.4594316186372978
+AtLocation	tree	state park	3.4594316186372978
+AtLocation	computer	table	3.4594316186372978
+AtLocation	dental floss	bathroom	3.4594316186372978
+AtLocation	welcome mat	front door	3.4594316186372978
+CapableOf	fan	cool person	3.4594316186372978
+UsedFor	boat	float on water	3.4594316186372978
+ReceivesAction	paper	burn	3.4594316186372978
+AtLocation	crater	moon	3.4594316186372978
+HasPrerequisite	find lose item	retrace your step	3.4594316186372978
+AtLocation	pad	carpet	3.4594316186372978
+HasA	chair	four leg	3.4594316186372978
+AtLocation	hot tap	bathroom	3.4594316186372978
+AtLocation	orchestra	opera	3.4594316186372978
+CapableOf	squirrel	store nut	3.4594316186372978
+HasA	bone	calcium	3.4594316186372978
+AtLocation	schedule	train station	3.4594316186372978
+IsA	island	body of land	3.4594316186372978
+HasPrerequisite	go see play	purchase ticket	3.4594316186372978
+UsedFor	eraser holder	hold eraser	3.4594316186372978
+Causes	go for jog	sweat	3.4594316186372978
+HasSubevent	meet person	smile	3.4594316186372978
+AtLocation	room	motel	3.4594316186372978
+UsedFor	ride bicycle	exercise	3.4594316186372978
+HasPrerequisite	have pee	go to bathroom	3.4594316186372978
+UsedFor	townhouse	live in	3.4594316186372978
+UsedFor	scale	weigh thing	3.4594316186372978
+CapableOf	detective	case joint	3.4594316186372978
+Causes	run twenty six mile	exhaustion	3.4594316186372978
+UsedFor	mall	shop	3.4594316186372978
+CapableOf	lawyer	state case	3.4594316186372978
+AtLocation	automobile	garage	3.4594316186372978
+HasPrerequisite	write story	have imagination	3.4594316186372978
+HasA	car	engine	3.4594316186372978
+NotIsA	win	everything but it something	3.4594316186372978
+HasFirstSubevent	use calculator	turn it on	3.4594316186372978
+HasA	some person	dog as pet	3.4594316186372978
+IsA	biography	book	3.4594316186372978
+IsA	heart	muscle	3.4594316186372978
+HasPrerequisite	play basketball	go to basketball court	3.4594316186372978
+AtLocation	coral reef	water	3.4594316186372978
+HasPrerequisite	pay by check	have bank account	3.4594316186372978
+AtLocation	microscope	laboratory	3.4594316186372978
+IsA	revolver	weapon	3.4594316186372978
+AtLocation	someone	disco	3.4594316186372978
+AtLocation	music	opera	3.4594316186372978
+HasSubevent	contemplate	think	3.4594316186372978
+HasSubevent	meet friend	shake hand	3.4594316186372978
+HasSubevent	read newspaper	learn about current event	3.4594316186372978
+AtLocation	bone	vertebrate	3.4594316186372978
+HasPrerequisite	get in shape	exercise	3.4594316186372978
+Causes	fly kite	have fun	3.4594316186372978
+HasSubevent	sit down	bend your knee	3.4594316186372978
+Causes	wash dirt from between your toe	clean foot	3.4594316186372978
+Causes	surf	get wet	3.4594316186372978
+HasPrerequisite	play guitar	take lesson	3.4594316186372978
+HasSubevent	meet girl	flirt	3.4594316186372978
+Causes	jog	sweat	3.4594316186372978
+UsedFor	electric razor	shave	3.4594316186372978
+HasSubevent	have rest	lie down	3.4594316186372978
+HasPrerequisite	ride bicycle	pedal	3.4594316186372978
+HasSubevent	earn live	go to work	3.4594316186372978
+HasSubevent	pray	kneel	3.4594316186372978
+AtLocation	isle	sea	3.4594316186372978
+CapableOf	can opener	open can	3.4594316186372978
+CapableOf	boss	page employee	3.4594316186372978
+Causes	calculate thing quickly	mistake	3.4594316186372978
+AtLocation	something	river	3.4594316186372978
+CapableOf	fall	hurt	3.4594316186372978
+NotCapableOf	water	burn	3.4594316186372978
+AtLocation	someone	basement	3.4594316186372978
+NotHasProperty	smoke	good for your health	3.4594316186372978
+CapableOf	cop	tail suspect	3.4594316186372978
+Causes	kiss	sex	3.4594316186372978
+CapableOf	paint	coat surface	3.4594316186372978
+CapableOf	cook	brown meat	3.4594316186372978
+AtLocation	someone	space station	3.4594316186372978
+HasSubevent	study	learn	3.4594316186372978
+IsA	theft	crime	3.4594316186372978
+AtLocation	human	library	3.4594316186372978
+AtLocation	sun	universe	3.4594316186372978
+CapableOf	child	become adult	3.4594316186372978
+HasProperty	live grass	green	3.4594316186372978
+AtLocation	troll	bridge	3.4594316186372978
+HasPrerequisite	go to opera	dress up	3.4594316186372978
+Causes	take course	learn	3.4594316186372978
+UsedFor	xylophone	make music	3.4594316186372978
+AtLocation	someone	table	3.4594316186372978
+IsA	cougar	cat	3.4594316186372978
+HasSubevent	do housework	clean house	3.4594316186372978
+HasPrerequisite	walk	leg	3.4594316186372978
+AtLocation	squirrel	park	3.4594316186372978
+AtLocation	sloth	tropical forest	3.4594316186372978
+HasPrerequisite	have physical exam	go to hospital	3.4594316186372978
+AtLocation	road sign	fork in road	3.4594316186372978
+HasPrerequisite	give gift	buy gift	3.4594316186372978
+AtLocation	tank	war	3.4594316186372978
+HasProperty	some person	ignorant	3.4594316186372978
+ReceivesAction	trash	recycle	3.4594316186372978
+UsedFor	container	hold something	3.4594316186372978
+HasSubevent	procreate	have sex	3.4594316186372978
+HasSubevent	calculate thing quickly	make mistake	3.4594316186372978
+HasSubevent	get good grade	study	3.4594316186372978
+NotDesires	person	itch	3.4594316186372978
+HasSubevent	play chess	checkmate	3.4594316186372978
+HasPrerequisite	get fit	excercise	3.4594316186372978
+HasSubevent	play harp	pluck string	3.4594316186372978
+HasSubevent	thank someone	smile	3.4594316186372978
+UsedFor	shampoo and conditioner	wash hair	3.4594316186372978
+CapableOf	chairperson	chair meet	3.4594316186372978
+HasA	most cat	tail	3.4594316186372978
+Causes	buy hamburger	you have something to eat	3.4594316186372978
+MotivatedByGoal	wait your turn	you be polite	3.4594316186372978
+AtLocation	horse	cavalry	3.4594316186372978
+AtLocation	doorbell	front door	3.4594316186372978
+CapableOf	horse	pull cart	3.4594316186372978
+AtLocation	sprinkler	lawn	3.4594316186372978
+CapableOf	person	deal card	3.4594316186372978
+CapableOf	person	weather storm	3.4594316186372978
+UsedFor	explosive	blow thing up	3.4594316186372978
+HasPrerequisite	stop your bicycle	use it brake	3.4594316186372978
+AtLocation	fungus	warm damp place	3.4594316186372978
+AtLocation	hockey puck	hockey game	3.4594316186372978
+Causes	walk	exercise	3.4594316186372978
+Causes	take final	finish class	3.4594316186372978
+AtLocation	person	opera	3.4594316186372978
+HasPrerequisite	remember something	memory	3.4594316186372978
+AtLocation	someone	classroom	3.4594316186372978
+AtLocation	jelly	jar	3.4594316186372978
+HasA	door	handle	3.4594316186372978
+HasPrerequisite	thank someone	say thank you	3.4594316186372978
+HasPrerequisite	get in line	patience	3.4594316186372978
+UsedFor	soccer field	play soccer	3.4594316186372978
+AtLocation	something	circus	3.4594316186372978
+AtLocation	someone	movie theater	3.4594316186372978
+HasPrerequisite	play sport	join team	3.4594316186372978
+HasSubevent	stay in bed	read book	3.4594316186372978
+UsedFor	ball	play game	3.4594316186372978
+IsA	accordian	musical instrument	3.4594316186372978
+IsA	diamond	girl best friend	3.4594316186372978
+IsA	copper	good conductor of electricity	3.4594316186372978
+IsA	be in love	wonderful feel	3.4594316186372978
+IsA	mallard	duck	3.4594316186372978
+HasProperty	book	expensive	3.4594316186372978
+IsA	wrench	useful tool	3.4594316186372978
+UsedFor	hand	hold thing	3.4594316186372978
+HasProperty	honey	sweet	3.4594316186372978
+HasProperty	water	reflective	3.4594316186372978
+UsedFor	tank	kill person	3.4594316186372978
+IsA	clamp	tool	3.4594316186372978
+HasProperty	wood	brown	3.4594316186372978
+IsA	dice	cube	3.4594316186372978
+HasProperty	rape	bad	3.4594316186372978
+UsedFor	tire pump	inflate bicycle tire	3.4594316186372978
+IsA	rose	sign of love	3.4594316186372978
+IsA	horse	large animal	3.4594316186372978
+UsedFor	helmet	protection	3.4594316186372978
+HasFirstSubevent	travel	pack	3.4594316186372978
+Causes	go for haircut	short hair	3.4594316186372978
+UsedFor	buy christmas present	fun	3.4594316186372978
+Desires	bird	fly	3.4594316186372978
+UsedFor	spoon	stir coffee	3.4594316186372978
+UsedFor	highway	car to drive on	3.4594316186372978
+HasProperty	eiffel tower	tall	3.4594316186372978
+HasProperty	child	noisy	3.4594316186372978
+HasSubevent	cross street	look both way	3.4594316186372978
+CapableOf	bucket	carry water	3.4594316186372978
+UsedFor	tv	entertainment	3.4594316186372978
+CapableOf	weightlifter	lift weight	3.4594316186372978
+UsedFor	blade	cut	3.4594316186372978
+CapableOf	prince	succeed king	3.4594316186372978
+CapableOf	cat	eat meat	3.4594316186372978
+NotDesires	person	bore job	3.4594316186372978
+UsedFor	back garden	grow vegetable	3.4594316186372978
+UsedFor	ticket office	sell ticket	3.4594316186372978
+Causes	be in charge of project	stress	3.4594316186372978
+HasLastSubevent	talk to someone	say goodbye	3.4594316186372978
+Causes	meet friend	happiness	3.4594316186372978
+NotDesires	person	break finger	3.4594316186372978
+UsedFor	ballpoint pen	write	3.4594316186372978
+HasProperty	dog	friendly	3.4594316186372978
+HasProperty	rain	wet	3.4594316186372978
+UsedFor	staircase	go upstairs	3.4594316186372978
+IsA	ivy	vine	3.4594316186372978
+HasProperty	sunset	beautiful	3.4594316186372978
+UsedFor	play game	entertainment	3.4594316186372978
+Causes	listen to music	deafness	3.4594316186372978
+UsedFor	counter	work on	3.4594316186372978
+Causes	commit to memory	learn	3.4594316186372978
+IsA	tablespoon	measurement	3.4594316186372978
+CapableOf	band	play music	3.4594316186372978
+UsedFor	bullet	kill	3.4594316186372978
+CapableOf	waiter	serve meal	3.4594316186372978
+Causes	travel	motion sickness	3.4594316186372978
+HasFirstSubevent	exercise	stretch	3.4594316186372978
+Causes	attend school	learn	3.4594316186372978
+UsedFor	watch	keep track of time	3.4594316186372978
+UsedFor	sofa bed	sit on	3.4594316186372978
+Causes	lie	guilt	3.4594316186372978
+IsA	pawn	chess piece	3.4594316186372978
+UsedFor	wing	flap	3.4594316186372978
+IsA	xylophone	instrument	3.4594316186372978
+CapableOf	picture frame	hang on wall	3.4594316186372978
+HasPrerequisite	use television	turn it on	3.4594316186372978
+UsedFor	chess queen	play game of chess	3.4594316186372978
+UsedFor	tearoom	drink tea	3.4594316186372978
+IsA	revolver	gun	3.4594316186372978
+HasProperty	razor	sharp	3.4594316186372978
+Desires	person	good life	3.4594316186372978
+IsA	west virginia	state	3.4594316186372978
+UsedFor	orchestra pit	orchestra to sit in	3.4594316186372978
+HasProperty	gasoline	flammable	3.4594316186372978
+IsA	harp	instrument	3.4594316186372978
+MotivatedByGoal	set cup on table	free your hand	3.4594316186372978
+Causes	soak in hotspring	relaxation	3.4594316186372978
+CapableOf	person	drink milk	3.4594316186372978
+CapableOf	person	hear noise	3.4594316186372978
+HasProperty	pain	unpleasant	3.4594316186372978
+UsedFor	check in counter	check in	3.4594316186372978
+UsedFor	japanese restaurant	eat japanese food	3.4594316186372978
+HasProperty	stethoscope	cold	3.4594316186372978
+UsedFor	bobby pin	pick lock	3.4594316186372978
+UsedFor	bar	get drunk	3.4594316186372978
+UsedFor	gun	kill	3.4594316186372978
+MotivatedByGoal	bring home some fish	fish be good to eat	3.4594316186372978
+UsedFor	footstool	stand on	3.4594316186372978
+HasSubevent	stay fit	exercise	3.4594316186372978
+CapableOf	friend	lend tool	3.4594316186372978
+UsedFor	teakettle	make tea	3.4594316186372978
+Causes	go see film	enjoyment	3.4594316186372978
+UsedFor	kitchen utensil	prepare food	3.4594316186372978
+UsedFor	john	go to bathroom	3.4594316186372978
+HasPrerequisite	communicate	think	3.4594316186372978
+HasSubevent	sit quietly	think	3.4594316186372978
+Causes	clean your room	clean room	3.4594316186372978
+Causes	wage war	death and destruction	3.4594316186372978
+HasProperty	grass	green	3.4594316186372978
+HasProperty	velvet	soft	3.4594316186372978
+UsedFor	dance	fun	3.4594316186372978
+UsedFor	voice	talk	3.4594316186372978
+UsedFor	key	unlock	3.4594316186372978
+CapableOf	poet	write poem	3.4594316186372978
+UsedFor	balalaika	make music	3.4594316186372978
+UsedFor	squash court	play game of squash	3.4594316186372978
+HasProperty	sand	gritty	3.4594316186372978
+UsedFor	clock	set alarm	3.4594316186372978
+UsedFor	cloth	dry dish	3.4594316186372978
+UsedFor	indian ocean	fish	3.4594316186372978
+UsedFor	jump out of window	escape	3.4594316186372978
+UsedFor	mother	love	3.4594316186372978
+UsedFor	toy soldier	play war game	3.4594316186372978
+UsedFor	hardware shop	buy hardware	3.4594316186372978
+HasSubevent	wrestle	sweat	3.4594316186372978
+UsedFor	swim	exercise	3.4594316186372978
+HasSubevent	go to movie	laugh	3.4594316186372978
+UsedFor	glove	protect your hand	3.4594316186372978
+UsedFor	wash machine	wash clothe	3.4594316186372978
+UsedFor	screwdriver	insert screw	3.4594316186372978
+UsedFor	movie house	watch movie	3.4594316186372978
+IsA	sister	female sibling	3.4594316186372978
+UsedFor	hourglass	measure time	3.4594316186372978
+IsA	whale	marine mammal	3.4594316186372978
+MotivatedByGoal	go for swim	exercise	3.4594316186372978
+HasProperty	tree	green	3.4594316186372978
+UsedFor	shirt	wear	3.4594316186372978
+UsedFor	entertain person	make them laugh	3.4594316186372978
+HasSubevent	send e-mail	type message	3.4594316186372978
+UsedFor	microphone	amplify sound	3.4594316186372978
+HasSubevent	diminish your own hunger	eat food	3.4594316186372978
+CausesDesire	be cold	get warm	3.4594316186372978
+HasProperty	mountain	very large	3.4594316186372978
+HasSubevent	exercise	run	3.4594316186372978
+CapableOf	water	fill bucket	3.4594316186372978
+UsedFor	umbrella	stay dry in rain	3.4594316186372978
+UsedFor	tin	hold cookie	3.4594316186372978
+UsedFor	string instrument	play music	3.4594316186372978
+UsedFor	family room	play game	3.4594316186372978
+HasSubevent	cook dinner	boil water	3.4594316186372978
+UsedFor	ticket booth	sell ticket	3.4594316186372978
+UsedFor	sew	make clothe	3.4594316186372978
+UsedFor	hear testimony	jury	3.4594316186372978
+UsedFor	telephone booth	make telephone call	3.4594316186372978
+UsedFor	monocle	see	3.4594316186372978
+IsA	verb	action word	3.4594316186372978
+UsedFor	memo pad	take note	3.4594316186372978
+UsedFor	car park	park car	3.4594316186372978
+HasSubevent	have bath	wash	3.4594316186372978
+Causes	add up number	get total	3.4594316186372978
+IsA	be	insect	3.4594316186372978
+UsedFor	hook	catch fish	3.4594316186372978
+CapableOf	person	build house	3.4594316186372978
+IsA	north dakota	state	3.4594316186372978
+IsA	harpsichord	musical instrument	3.4594316186372978
+IsA	dine room	room where person eat	3.4594316186372978
+AtLocation	body	coffin	3.4594316186372978
+AtLocation	sand	sandbox	3.4594316186372978
+AtLocation	park lot	city	3.4594316186372978
+AtLocation	cafe	city	3.4594316186372978
+AtLocation	dog	dog house	3.4594316186372978
+AtLocation	small dog	yard	3.4594316186372978
+AtLocation	wiener dog	germany	3.4594316186372978
+AtLocation	scale	fish	3.4594316186372978
+AtLocation	potato	ireland	3.4594316186372978
+AtLocation	mouse	corn field	3.4594316186372978
+AtLocation	frog	pond	3.4594316186372978
+AtLocation	pencil	pencil-case	3.4594316186372978
+AtLocation	garbage	garbage can	3.4594316186372978
+AtLocation	unite state	north america	3.4594316186372978
+AtLocation	movie theater	mall	3.4594316186372978
+AtLocation	monkey	south america	3.4594316186372978
+AtLocation	blanket	bedroom	3.4594316186372978
+AtLocation	shop arcade	town	3.4594316186372978
+AtLocation	boy	playground	3.4594316186372978
+AtLocation	meat	butch shop	3.4594316186372978
+AtLocation	heifer	barnyard	3.4594316186372978
+AtLocation	snake	field	3.4594316186372978
+AtLocation	foot	sock	3.4594316186372978
+AtLocation	kitten	bed	3.4594316186372978
+AtLocation	fungus	your toenail	3.4594316186372978
+AtLocation	grape	fridge	3.4594316186372978
+AtLocation	kite	air	3.4594316186372978
+AtLocation	container	refrigerator	3.4594316186372978
+AtLocation	mouse	hole	3.4594316186372978
+AtLocation	taxiway	airport	3.4594316186372978
+AtLocation	water	ocean	3.4594316186372978
+AtLocation	radio studio	build	3.4594316186372978
+AtLocation	puzzle	toy store	3.4594316186372978
+AtLocation	bill	restaurant	3.4594316186372978
+AtLocation	creature	forest	3.4594316186372978
+AtLocation	skylight	roof	3.4594316186372978
+AtLocation	shop arcade	mall	3.4594316186372978
+AtLocation	hair shape gel	bathroom	3.4594316186372978
+AtLocation	utility case	garage	3.4594316186372978
+AtLocation	toll road	unite state	3.4594316186372978
+AtLocation	box	closet	3.4594316186372978
+AtLocation	potato	root cellar	3.4594316186372978
+AtLocation	wheat	field	3.4594316186372978
+AtLocation	cafeteria	school	3.4594316186372978
+PartOf	motherboard	computer	3.4594316186372978
+ReceivesAction	steak	grill	3.4594316186372978
+MadeOf	comb	plastic	3.4594316186372978
+Desires	person	be happy	3.4594316186372978
+Causes	injury	pain	3.4594316186372978
+IsA	earthquake	natural disaster	3.4594316186372978
+IsA	window	operate system	3.4594316186372978
+IsA	python	program language	3.4594316186372978
+AtLocation	apple	house	3.4594316186372978
+IsA	google	search engine	3.4594316186372978
+IsA	grizzly	bear	3.4594316186372978
+HasSubevent	sneeze	close your eye	3.4594316186372978
+UsedFor	flute	make music	3.4594316186372978
+MadeOf	tree	wood	3.4594316186372978
+NotDesires	person	lose friend	3.4594316186372978
+AtLocation	knife	in kitchen	3.4594316186372978
+IsA	onion	vegetable	3.4594316186372978
+UsedFor	comb	comb hair	3.4594316186372978
+IsA	star	sun	3.4594316186372978
+UsedFor	money	buy thing	3.4594316186372978
+AtLocation	hole	grind	3.4594316186372978
+MadeOf	apple juice	apple	3.4594316186372978
+HasProperty	stone	hard	3.4594316186372978
+IsA	pine tree	tree	3.4594316186372978
+UsedFor	ruler	measure	3.4594316186372978
+Causes	exercise	lose weight	3.4594316186372978
+IsA	beer	beverage	3.4594316186372978
+IsA	breakfast	meal	3.4594316186372978
+IsA	desk	furniture	3.4594316186372978
+IsA	radish	vegetable	3.4594316186372978
+IsA	crab	seafood	3.4594316186372978
+Causes	drink alcohol	you get drunk	3.4594316186372978
+CapableOf	singer	sing	3.4594316186372978
+HasProperty	wall	vertical	3.4594316186372978
+Causes	eat	feel full	3.4594316186372978
+AtLocation	television	live room	3.4594316186372978
+PartOf	pillow	bed	3.4594316186372978
+HasPrerequisite	go to work	get dress	3.4594316186372978
+IsA	violin	musical instrument	3.4594316186372978
+IsA	rain	weather	3.4594316186372978
+AtLocation	seat	in car	3.4594316186372978
+UsedFor	car	drive	3.4594316186372978
+AtLocation	car	in garage	3.4594316186372978
+MadeOf	glass	sand	3.4594316186372978
+PartOf	roof	house	3.4594316186372978
+IsA	grapefruit	fruit	3.4594316186372978
+IsA	classical	music	3.4594316186372978
+IsA	sister	sibling	3.4594316186372978
+IsA	hate	emotion	3.4594316186372978
+IsA	sun	star	3.4594316186372978
+HasProperty	chocolate	brown	3.4594316186372978
+IsA	reporter	job	3.4594316186372978
+NotDesires	person	die	3.4594316186372978
+CapableOf	dog	live in dog house	3.4594316186372978
+AtLocation	sofa	in live room	3.4594316186372978
+UsedFor	fire	cook	3.4594316186372978
+IsA	person	mammal	3.4594316186372978
+HasProperty	snow	white	3.4594316186372978
+UsedFor	oven	bake	3.4594316186372978
+NotDesires	person	pain	3.4594316186372978
+Causes	exercise	thirst	3.4594316186372978
+AtLocation	toothbrush	bathroom	3.4594316186372978
+CapableOf	cow	give milk	3.4594316186372978
+RelatedTo	winter	snow	3.437333772280439
+IsA	atlanta	city	3.3923174227787602
+IsA	coffee	beverage	3.3923174227787602
+IsA	asia	continent	3.3923174227787602
+IsA	wasp	insect	3.3923174227787602
+IsA	bowl	sport	3.3923174227787602
+IsA	norway	country	3.3923174227787602
+IsA	tank	weapon	3.3923174227787602
+IsA	new zealand	country	3.3923174227787602
+IsA	fox	animal	3.3923174227787602
+IsA	penguin	animal	3.3923174227787602
+IsA	anteater	mammal	3.3923174227787602
+IsA	skate	fish	3.3923174227787602
+IsA	eel	fish	3.3923174227787602
+IsA	austria	country	3.3923174227787602
+IsA	yellow	colour	3.3923174227787602
+IsA	red	colour	3.3923174227787602
+NotHasProperty	grass	green	3.3219280948873626
+UsedFor	language	communication	3.3219280948873626
+Causes	masturbation	orgasm	3.3219280948873626
+AtLocation	cactus	desert	3.3219280948873626
+UsedFor	rope	tie thing	3.3219280948873626
+AtLocation	ring	finger	3.3219280948873626
+Causes	masturbation	ejaculation	3.3219280948873626
+PartOf	chapter	of book	3.3219280948873626
+AtLocation	flower	vase	3.3219280948873626
+UsedFor	phone	communication	3.3219280948873626
+HasProperty	technology	change	3.3219280948873626
+IsA	dart	game of skill	3.3219280948873626
+IsA	music	art	3.3219280948873626
+NotCapableOf	ear	talk	3.3219280948873626
+HasProperty	reptile	cold blood	3.3219280948873626
+IsA	lizard	cold-blooded animal	3.3219280948873626
+NotCapableOf	some bird	migrate in winter	3.3219280948873626
+HasProperty	rock climb	dangerous	3.3219280948873626
+HasProperty	paper	make from tree	3.3219280948873626
+HasA	book	spine	3.3219280948873626
+HasProperty	rubber ducky	yellow	3.3219280948873626
+HasA	comb	tooth	3.3219280948873626
+HasProperty	family	important	3.3219280948873626
+HasProperty	movie	fun	3.3219280948873626
+DefinedAs	skyscraper	very tall build	3.3219280948873626
+HasProperty	champagne	serve cold	3.3219280948873626
+CapableOf	horse	jump very high	3.3219280948873626
+IsA	pen	mighty than sword	3.3219280948873626
+HasProperty	cheese	good to eat	3.3219280948873626
+ReceivesAction	dog	train	3.3219280948873626
+IsA	horse	domestic animal	3.3219280948873626
+HasProperty	hat	brown	3.3219280948873626
+ReceivesAction	wine	make from grape	3.3219280948873626
+UsedFor	stopwatch	measure time	3.3219280948873626
+IsA	bisexual	sexuality	3.3219280948873626
+IsA	man	play saxophone	3.3219280948873626
+IsA	man	change tire	3.3219280948873626
+IsA	this	bicycle	3.3219280948873626
+IsA	this	ticket	3.3219280948873626
+HasProperty	some plant	poisonous	3.3219280948873626
+HasSubevent	pay bill	write out check	3.3219280948873626
+HasPrerequisite	hike	go to mountain	3.3219280948873626
+UsedFor	condom	prevent pregnancy	3.3219280948873626
+HasA	turtle	hard shell	3.3219280948873626
+UsedFor	garden	grow vegetable	3.3219280948873626
+HasPrerequisite	get fit	lift weight	3.3219280948873626
+HasPrerequisite	win baseball game	hit ball	3.3219280948873626
+AtLocation	fat lady	opera	3.3219280948873626
+ReceivesAction	water	boil	3.3219280948873626
+IsA	monopoly	board game	3.3219280948873626
+AtLocation	food	resturant	3.3219280948873626
+AtLocation	religious tract	church	3.3219280948873626
+IsA	monarchy	form of government	3.3219280948873626
+NotCapableOf	person	breathe water	3.3219280948873626
+Causes	live	die	3.3219280948873626
+HasPrerequisite	exercise	go to gym	3.3219280948873626
+HasPrerequisite	wash your clothe	take them off	3.3219280948873626
+AtLocation	flight attendant	plane	3.3219280948873626
+DefinedAs	apple	fruit of apple tree	3.3219280948873626
+CapableOf	tree	fall down	3.3219280948873626
+HasA	milk	calcium	3.3219280948873626
+AtLocation	closet	clothe in bedroom	3.3219280948873626
+CapableOf	key	start car	3.3219280948873626
+AtLocation	grocery	supermarket	3.3219280948873626
+HasA	bread	yeast	3.3219280948873626
+AtLocation	hammer	tool box	3.3219280948873626
+CapableOf	sex	be wonderful thing	3.3219280948873626
+AtLocation	beaver	zoo	3.3219280948873626
+AtLocation	electric socket	wall	3.3219280948873626
+AtLocation	window	build	3.3219280948873626
+HasPrerequisite	tape television show	vcr	3.3219280948873626
+HasPrerequisite	look through telescope	have telescope	3.3219280948873626
+IsA	sex	enjoyable activity	3.3219280948873626
+IsA	purple	color	3.3219280948873626
+Causes	commit perjury	go to jail	3.3219280948873626
+IsA	home	where heart be	3.3219280948873626
+UsedFor	dine room	eat in	3.3219280948873626
+UsedFor	chess knight	play chess	3.3219280948873626
+HasPrerequisite	add up column of number	math	3.3219280948873626
+HasSubevent	take bus	read newspaper	3.3219280948873626
+HasProperty	smoke	bad for your health	3.3219280948873626
+UsedFor	tool	make thing	3.3219280948873626
+UsedFor	puck	play hockey	3.3219280948873626
+UsedFor	spoon	eat ice cream	3.3219280948873626
+AtLocation	ball	soccer game	3.3219280948873626
+AtLocation	mouse	cellar	3.3219280948873626
+CapableOf	sex	feel good	3.3219280948873626
+HasPrerequisite	use vcr	turn it on	3.3219280948873626
+AtLocation	star	galaxy	3.3219280948873626
+HasSubevent	sit down	relax	3.3219280948873626
+AtLocation	note	desk	3.3219280948873626
+Causes	dance samba	sweat	3.3219280948873626
+UsedFor	hotel room	sleep in	3.3219280948873626
+HasSubevent	express information	talk	3.3219280948873626
+HasProperty	son	male	3.3219280948873626
+HasPrerequisite	kiss	lip	3.3219280948873626
+UsedFor	curtain	cover window	3.3219280948873626
+IsA	empire state build	in new york city	3.3219280948873626
+HasPrerequisite	buy something	pay	3.3219280948873626
+CapableOf	cat	climb up tree	3.3219280948873626
+HasPrerequisite	eat	find food	3.3219280948873626
+AtLocation	field	countryside	3.3219280948873626
+AtLocation	planet	outerspace	3.3219280948873626
+CapableOf	woman	part her hair	3.3219280948873626
+IsA	jam bond	spy	3.3219280948873626
+AtLocation	wait room	doctor office	3.3219280948873626
+MotivatedByGoal	have lunch	you be hungry	3.3219280948873626
+HasPrerequisite	sit on chair	have chair	3.3219280948873626
+AtLocation	tablespoon	kitchen drawer	3.3219280948873626
+HasProperty	bicycle	fun to ride	3.3219280948873626
+Causes	do crossword puzzle	learn new word	3.3219280948873626
+AtLocation	mailbox	post office	3.3219280948873626
+HasPrerequisite	study	read book	3.3219280948873626
+HasProperty	smoke	hazardous to your health	3.3219280948873626
+AtLocation	ticket window	train station	3.3219280948873626
+PartOf	battle	war	3.3219280948873626
+UsedFor	scale	measure weight	3.3219280948873626
+HasSubevent	read newspaper	turn page	3.3219280948873626
+UsedFor	salad bowl	serve salad	3.3219280948873626
+IsA	kitten	cat	3.3219280948873626
+HasPrerequisite	play soccer	join team	3.3219280948873626
+AtLocation	pencil sharpener	desk	3.3219280948873626
+HasSubevent	play sport	sweat	3.3219280948873626
+IsA	ski	winter sport	3.3219280948873626
+IsA	glue	substance	3.3219280948873626
+IsA	island	piece of land	3.3219280948873626
+CapableOf	friend	keep secret	3.3219280948873626
+AtLocation	beer keg	fraternity house	3.3219280948873626
+AtLocation	twenty-six letter	english alphabet	3.3219280948873626
+HasSubevent	see person play game	cheer	3.3219280948873626
+CapableOf	boy	cry wolf	3.3219280948873626
+AtLocation	highlighter pen	desk	3.3219280948873626
+IsA	child	small than adult	3.3219280948873626
+AtLocation	tv	family room	3.3219280948873626
+Desires	student	learn	3.3219280948873626
+IsA	earth	one astronomical unit from sun	3.3219280948873626
+IsA	son	male child	3.3219280948873626
+AtLocation	stapler	desktop	3.3219280948873626
+AtLocation	something	top of mountain	3.3219280948873626
+CapableOf	waiter	serve food	3.3219280948873626
+HasA	bird	two wing	3.3219280948873626
+HasA	motorcycle	two wheel	3.3219280948873626
+UsedFor	chess king	play chess	3.3219280948873626
+CapableOf	person	board ship	3.3219280948873626
+AtLocation	soprano	choir	3.3219280948873626
+AtLocation	kitten	lap	3.3219280948873626
+HasA	plant	flower	3.3219280948873626
+Causes	wash your car	get wet	3.3219280948873626
+AtLocation	skeleton	closet	3.3219280948873626
+AtLocation	something	earth	3.3219280948873626
+AtLocation	screen	movie	3.3219280948873626
+CapableOf	cook	bread chicken breast	3.3219280948873626
+IsA	pork	meat	3.3219280948873626
+Desires	child	hear story	3.3219280948873626
+CapableOf	car	cost lot of money	3.3219280948873626
+UsedFor	rent apartment	live in	3.3219280948873626
+HasSubevent	propose to woman	kneel	3.3219280948873626
+CapableOf	company	market product	3.3219280948873626
+AtLocation	mail	mail box	3.3219280948873626
+AtLocation	boy	school	3.3219280948873626
+HasPrerequisite	have examination	go to doctor	3.3219280948873626
+AtLocation	pen	school	3.3219280948873626
+HasPrerequisite	program computer	learn computer language	3.3219280948873626
+AtLocation	map	library	3.3219280948873626
+HasPrerequisite	play violin	practice	3.3219280948873626
+HasPrerequisite	get warm	turn up heat	3.3219280948873626
+HasPrerequisite	add up column of number	use calculator	3.3219280948873626
+AtLocation	glass front cupboard	dine room	3.3219280948873626
+HasPrerequisite	climb	get rope	3.3219280948873626
+HasPrerequisite	go see film	go to movie theater	3.3219280948873626
+Causes	get warm	sweat	3.3219280948873626
+HasA	beer	alcohol	3.3219280948873626
+AtLocation	rent apartment	city	3.3219280948873626
+Causes	talk	dry mouth	3.3219280948873626
+CapableOf	locksmith	pick lock	3.3219280948873626
+IsA	brazil	in south america	3.3219280948873626
+AtLocation	someone	amusement park	3.3219280948873626
+UsedFor	bathroom	take bath	3.3219280948873626
+CapableOf	dentist	pull tooth	3.3219280948873626
+HasPrerequisite	bring in verdict	be in jury	3.3219280948873626
+UsedFor	knob	open door	3.3219280948873626
+UsedFor	piano	perform music	3.3219280948873626
+AtLocation	wall	fridge	3.3219280948873626
+HasSubevent	take car for drive	accident	3.3219280948873626
+HasSubevent	reach tentative agreement	you shake hand	3.3219280948873626
+HasSubevent	diminish your own hunger	you eat some food	3.3219280948873626
+AtLocation	potato	your pantry	3.3219280948873626
+HasSubevent	memorize	you remember	3.3219280948873626
+AtLocation	ring	jewelry store	3.3219280948873626
+AtLocation	gambler	casino	3.3219280948873626
+AtLocation	number	phone book	3.3219280948873626
+UsedFor	pizzeria	buy pizza	3.3219280948873626
+UsedFor	letter opener	open envelope	3.3219280948873626
+AtLocation	toothbrush	suitcase	3.3219280948873626
+UsedFor	vegetable garden	grow pea	3.3219280948873626
+UsedFor	plane ticket	travel	3.3219280948873626
+AtLocation	cookie	cookie jar	3.3219280948873626
+AtLocation	human	jail	3.3219280948873626
+HasPrerequisite	learn about subject	read book	3.3219280948873626
+UsedFor	cannon	shoot cannonball	3.3219280948873626
+HasSubevent	play baseball	sweat	3.3219280948873626
+UsedFor	forklift	lift	3.3219280948873626
+UsedFor	kill	end life	3.3219280948873626
+HasSubevent	get some physical activity	get tire	3.3219280948873626
+HasPrerequisite	rest	relax	3.3219280948873626
+Causes	pray	relief	3.3219280948873626
+HasSubevent	check vital sign	take pulse	3.3219280948873626
+HasSubevent	go to baseball game	eat hotdog	3.3219280948873626
+UsedFor	shade	block sunlight	3.3219280948873626
+AtLocation	costume	opera	3.3219280948873626
+HasPrerequisite	fall	lose your balance	3.3219280948873626
+AtLocation	bird	park	3.3219280948873626
+UsedFor	library	borrow book	3.3219280948873626
+IsA	oxygen	element	3.3219280948873626
+HasPrerequisite	get onto web	computer	3.3219280948873626
+IsA	utah	state	3.3219280948873626
+Causes	live life	die	3.3219280948873626
+HasPrerequisite	meet person	go to party	3.3219280948873626
+HasA	person	two eye	3.3219280948873626
+IsA	nebraska	state	3.3219280948873626
+IsA	vermont	state	3.3219280948873626
+IsA	florida	state	3.3219280948873626
+IsA	oregon	state	3.3219280948873626
+HasProperty	pumpkin	orange	3.3219280948873626
+HasProperty	all person	human	3.3219280948873626
+HasSubevent	see your idea become reality	celebrate	3.3219280948873626
+HasPrerequisite	have bath	turn on water	3.3219280948873626
+HasSubevent	watch movie	fall asleep	3.3219280948873626
+Desires	person	play game	3.3219280948873626
+HasPrerequisite	become more clean	wash	3.3219280948873626
+UsedFor	clothe shelf	store clothe	3.3219280948873626
+Causes	go for run	sweat	3.3219280948873626
+Causes	copulate	pregnancy	3.3219280948873626
+IsA	butter	dairy product	3.3219280948873626
+UsedFor	tile	cover wall	3.3219280948873626
+HasPrerequisite	calculate thing quickly	use calculator	3.3219280948873626
+UsedFor	cottage	live in	3.3219280948873626
+AtLocation	italian restaurant	city	3.3219280948873626
+Causes	fall	get hurt	3.3219280948873626
+HasPrerequisite	wash your clothe	use wash machine	3.3219280948873626
+HasPrerequisite	walk dog	put dog on leash	3.3219280948873626
+HasSubevent	eat dinner	chew	3.3219280948873626
+AtLocation	star	outerspace	3.3219280948873626
+HasPrerequisite	buy house	money	3.3219280948873626
+UsedFor	tourniquet	stop bleed	3.3219280948873626
+HasSubevent	get some physical activity	sweat	3.3219280948873626
+AtLocation	billboard	city	3.3219280948873626
+HasSubevent	play game	lose	3.3219280948873626
+HasPrerequisite	stop be marry to someone	file for divorce	3.3219280948873626
+HasProperty	rain	water fall from sky	3.3219280948873626
+AtLocation	clothe	house	3.3219280948873626
+UsedFor	rug	floor cover	3.3219280948873626
+HasPrerequisite	urinate	go to bathroom	3.3219280948873626
+UsedFor	bass fiddle	make music	3.3219280948873626
+HasA	insect	six leg	3.3219280948873626
+UsedFor	head	think	3.3219280948873626
+AtLocation	corn	can	3.3219280948873626
+AtLocation	carpet	bedroom	3.3219280948873626
+AtLocation	box	post office	3.3219280948873626
+Causes	sleep	dream	3.3219280948873626
+UsedFor	paper punch	make hole in paper	3.3219280948873626
+UsedFor	beam	support roof	3.3219280948873626
+Causes	go to store	buy thing	3.3219280948873626
+HasSubevent	take final exam	write essay	3.3219280948873626
+AtLocation	city	country	3.3219280948873626
+AtLocation	wardrobe	bedroom	3.3219280948873626
+CapableOf	politician	duck issue	3.3219280948873626
+HasPrerequisite	play poker	get deck of card	3.3219280948873626
+AtLocation	pencil	drawer	3.3219280948873626
+AtLocation	human	space shuttle	3.3219280948873626
+NotCapableOf	cat	fly	3.3219280948873626
+Causes	cigarette smoke	cancer	3.3219280948873626
+AtLocation	ferris wheel	fairground	3.3219280948873626
+UsedFor	mug	drink coffee	3.3219280948873626
+AtLocation	letter	mail	3.3219280948873626
+HasSubevent	smoke	light cigarette	3.3219280948873626
+HasA	fireman	dangerous job	3.3219280948873626
+HasPrerequisite	see art	go to art gallery	3.3219280948873626
+AtLocation	waiter	resturant	3.3219280948873626
+Causes	have shower	feel clean	3.3219280948873626
+AtLocation	audience	movie	3.3219280948873626
+AtLocation	expressway	city	3.3219280948873626
+IsA	golden retriever	breed of dog	3.3219280948873626
+AtLocation	information	library	3.3219280948873626
+IsA	brown	color	3.3219280948873626
+AtLocation	food	cupboard	3.3219280948873626
+AtLocation	picnic table	park	3.3219280948873626
+AtLocation	helium balloon	circus	3.3219280948873626
+AtLocation	someone	bus stop	3.3219280948873626
+AtLocation	something	bus stop	3.3219280948873626
+UsedFor	attribute	describe something	3.3219280948873626
+AtLocation	something	bed	3.3219280948873626
+HasPrerequisite	fart	eat bean	3.3219280948873626
+CapableOf	butter	spread at room temperature	3.3219280948873626
+CapableOf	mother	care for child	3.3219280948873626
+AtLocation	dust	closet	3.3219280948873626
+HasProperty	steal	bad	3.3219280948873626
+HasPrerequisite	tape television show	set vcr	3.3219280948873626
+UsedFor	boat	travel	3.3219280948873626
+HasA	dog	tail	3.3219280948873626
+HasSubevent	love someone else	kiss them	3.3219280948873626
+HasA	dog	wet nose	3.3219280948873626
+HasPrerequisite	stand in queue	get in line	3.3219280948873626
+AtLocation	dish	table	3.3219280948873626
+IsA	this	live room	3.3219280948873626
+HasSubevent	go into coma	lose consciousness	3.3219280948873626
+CapableOf	judge	fine defendant	3.3219280948873626
+HasPrerequisite	cut your hair	go to hairdresser	3.3219280948873626
+HasSubevent	walk in rain	hold umbrella	3.3219280948873626
+AtLocation	fingerprint	your finger	3.3219280948873626
+CapableOf	student	doubt teacher	3.3219280948873626
+Causes	examine thing	thing to be change	3.3219280948873626
+HasSubevent	live life	learn	3.3219280948873626
+AtLocation	headline	newspaper	3.3219280948873626
+HasSubevent	have rest	snore	3.3219280948873626
+HasPrerequisite	become scuba diver	train	3.3219280948873626
+UsedFor	mayor	run town	3.3219280948873626
+HasPrerequisite	get in line	find end of line	3.3219280948873626
+AtLocation	something	museum	3.3219280948873626
+HasPrerequisite	paint picture	paint	3.3219280948873626
+CapableOf	president	govern nation	3.3219280948873626
+AtLocation	something	dump	3.3219280948873626
+HasSubevent	have haircut	talk with barber	3.3219280948873626
+HasSubevent	serve customer	smile	3.3219280948873626
+HasA	car	trunk	3.3219280948873626
+HasPrerequisite	ride horse	saddle up	3.3219280948873626
+CausesDesire	birthday	bake cake	3.3219280948873626
+UsedFor	ice	cool drink	3.3219280948873626
+HasPrerequisite	go see play	go to theater	3.3219280948873626
+AtLocation	letter	mail box	3.3219280948873626
+HasA	dog	tooth	3.3219280948873626
+HasPrerequisite	rest	sleep	3.3219280948873626
+Causes	play piano	music	3.3219280948873626
+CapableOf	person	experience pain	3.3219280948873626
+HasPrerequisite	breathe	air	3.3219280948873626
+UsedFor	window curtain	decorate window	3.3219280948873626
+HasPrerequisite	have heart attack	take aspirin	3.3219280948873626
+AtLocation	ad	newspaper	3.3219280948873626
+AtLocation	someone	police station	3.3219280948873626
+AtLocation	something	doctor office	3.3219280948873626
+HasPrerequisite	walk	stand up	3.3219280948873626
+UsedFor	board game	pass time	3.3219280948873626
+UsedFor	alto	sing	3.3219280948873626
+AtLocation	floor	desk	3.3219280948873626
+CapableOf	person	study in library	3.3219280948873626
+AtLocation	cage	zoo	3.3219280948873626
+AtLocation	earth	orbit	3.3219280948873626
+UsedFor	electronics store	buy electronics	3.3219280948873626
+AtLocation	satellite	space	3.3219280948873626
+CapableOf	person	plant flower	3.3219280948873626
+HasSubevent	do housework	clean toilet	3.3219280948873626
+AtLocation	someone	sea	3.3219280948873626
+IsA	seat	sit on	3.3219280948873626
+AtLocation	apple tree	washington state	3.3219280948873626
+HasSubevent	play sport	have injury	3.3219280948873626
+AtLocation	curtain	window	3.3219280948873626
+HasSubevent	take bath	get clean	3.3219280948873626
+AtLocation	furnace	cellar	3.3219280948873626
+UsedFor	grocer	sell food	3.3219280948873626
+HasPrerequisite	use vcr	tv	3.3219280948873626
+AtLocation	forest	countryside	3.3219280948873626
+HasPrerequisite	dream	go to sleep	3.3219280948873626
+HasA	cat	flea	3.3219280948873626
+IsA	leather	material	3.3219280948873626
+UsedFor	flask	store liquid	3.3219280948873626
+HasPrerequisite	type	use keyboard	3.3219280948873626
+Causes	wait in line	frustration	3.3219280948873626
+UsedFor	fish	catch fish	3.3219280948873626
+IsA	rabbit	pet	3.3219280948873626
+UsedFor	quill brush	write	3.3219280948873626
+AtLocation	mug	cupboard	3.3219280948873626
+HasSubevent	go into trance	close your eye	3.3219280948873626
+AtLocation	something	hand	3.3219280948873626
+HasPrerequisite	see excite story	go to movie	3.3219280948873626
+UsedFor	clock	measure time	3.3219280948873626
+UsedFor	italian restaurant	eat italian food	3.3219280948873626
+HasPrerequisite	urinate	go to toilet	3.3219280948873626
+HasPrerequisite	breathe some fresh air	inhale	3.3219280948873626
+UsedFor	handbag	carry makeup	3.3219280948873626
+UsedFor	first class airplane seat	travel	3.3219280948873626
+HasA	book	page	3.3219280948873626
+IsA	family	group of relate person	3.3219280948873626
+HasSubevent	cash in	get money	3.3219280948873626
+HasPrerequisite	spit	gather saliva	3.3219280948873626
+HasSubevent	buy shirt	pay for it	3.3219280948873626
+HasPrerequisite	go to school	enroll in class	3.3219280948873626
+UsedFor	container	hold thing	3.3219280948873626
+CapableOf	bridge	cross river	3.3219280948873626
+HasPrerequisite	send criminal to prison	convict him	3.3219280948873626
+HasSubevent	wash your hand	use soap	3.3219280948873626
+CapableOf	person	own property	3.3219280948873626
+HasPrerequisite	wait your turn	stand in line	3.3219280948873626
+UsedFor	chinese restaurant	eat chinese food	3.3219280948873626
+IsA	emu	flightless bird	3.3219280948873626
+HasPrerequisite	take bath	fill tub with water	3.3219280948873626
+CapableOf	chef	bread chicken	3.3219280948873626
+UsedFor	bar stool	sit at bar	3.3219280948873626
+HasProperty	some mushroom	poisonous	3.3219280948873626
+UsedFor	hairdryer	dry hair	3.3219280948873626
+HasPrerequisite	hear music	listen	3.3219280948873626
+UsedFor	ocean	fish	3.3219280948873626
+HasPrerequisite	copulate	find mate	3.3219280948873626
+HasPrerequisite	have friend over	invite them	3.3219280948873626
+Causes	sleep at night	dream	3.3219280948873626
+AtLocation	sculpture	art show	3.3219280948873626
+HasSubevent	go to mall	shop	3.3219280948873626
+AtLocation	jewelry	jewelry box	3.3219280948873626
+IsA	something you find upstairs	bedroom	3.3219280948873626
+AtLocation	chocolate	box	3.3219280948873626
+CapableOf	knife	butter bread	3.3219280948873626
+IsA	kiss	way to show affection	3.3219280948873626
+AtLocation	something	north pole	3.3219280948873626
+HasA	dart	sharp point	3.3219280948873626
+HasSubevent	take oath	put your hand on bible	3.3219280948873626
+CapableOf	sun	heat earth	3.3219280948873626
+AtLocation	pencil	classroom	3.3219280948873626
+HasPrerequisite	clean	get clean supply	3.3219280948873626
+AtLocation	beach towel	beach	3.3219280948873626
+Causes	stay fit	be healthy	3.3219280948873626
+CapableOf	tree	grow leave	3.3219280948873626
+HasPrerequisite	see old thing	go to antique store	3.3219280948873626
+CapableOf	all live thing	die	3.3219280948873626
+HasSubevent	have party	dance	3.3219280948873626
+Causes	religion	war	3.3219280948873626
+UsedFor	instrument	make music	3.3219280948873626
+AtLocation	town	state	3.3219280948873626
+HasA	car	wheel	3.3219280948873626
+UsedFor	bedroom	have sex	3.3219280948873626
+DefinedAs	mercury	first planet from sun	3.3219280948873626
+HasPrerequisite	use vcr	plug it in	3.3219280948873626
+IsA	bar	place	3.3219280948873626
+HasProperty	some music	relax	3.3219280948873626
+HasSubevent	study for subject	read book	3.3219280948873626
+UsedFor	clarinet	make music	3.3219280948873626
+AtLocation	sculpture	museum	3.3219280948873626
+IsA	beaver	rodent	3.3219280948873626
+HasPrerequisite	swim	go to pool	3.3219280948873626
+AtLocation	fruit	market	3.3219280948873626
+HasPrerequisite	read newspaper	eye	3.3219280948873626
+HasSubevent	go fish	buy bait	3.3219280948873626
+CausesDesire	be hungry	eat dinner	3.3219280948873626
+Causes	ski	break leg	3.3219280948873626
+AtLocation	someone	grocery store	3.3219280948873626
+Causes	meet girl	sex	3.3219280948873626
+CapableOf	roll stone	gather no moss	3.3219280948873626
+AtLocation	leg	table	3.3219280948873626
+HasSubevent	study for subject	read	3.3219280948873626
+HasPrerequisite	stop your bicycle	use brake	3.3219280948873626
+AtLocation	gym	school	3.3219280948873626
+AtLocation	person	theater	3.3219280948873626
+UsedFor	business	make money	3.3219280948873626
+AtLocation	money	pocket	3.3219280948873626
+AtLocation	french fry	fast-food restaurant	3.3219280948873626
+CausesDesire	sleep	snore	3.3219280948873626
+MotivatedByGoal	make bread	eat bread	3.3219280948873626
+HasPrerequisite	set cup on table	have table	3.3219280948873626
+IsA	mercury	only metal	3.3219280948873626
+AtLocation	paint	museum	3.3219280948873626
+AtLocation	traffic light	corner of two street	3.3219280948873626
+AtLocation	60 minute	hour	3.3219280948873626
+UsedFor	paper	draw	3.3219280948873626
+NotHasA	chicken	lip	3.3219280948873626
+UsedFor	cheque	pay bill	3.3219280948873626
+AtLocation	alcoholic	bar	3.3219280948873626
+AtLocation	something	garden	3.3219280948873626
+HasSubevent	play game	you lose	3.3219280948873626
+IsA	pizza	disc-shaped food item	3.3219280948873626
+IsA	knowledge	powerful thing	3.3219280948873626
+IsA	champagne	alcoholic beverage	3.3219280948873626
+IsA	planet	large object	3.3219280948873626
+AtLocation	chimney	on roof	3.3219280948873626
+AtLocation	pencil	at school	3.3219280948873626
+HasPrerequisite	kill someone	have weapon	3.3219280948873626
+AtLocation	phone number	phone book	3.3219280948873626
+UsedFor	safety pin	hold fabric together	3.3219280948873626
+IsA	one person	person	3.3219280948873626
+IsA	corn	plant	3.3219280948873626
+UsedFor	plunger	unplug drain	3.3219280948873626
+UsedFor	scale	compare weight	3.3219280948873626
+HasProperty	kitten	adorable	3.3219280948873626
+DefinedAs	religion	opiate of mass	3.3219280948873626
+HasProperty	fruit	nutritious	3.3219280948873626
+DefinedAs	peace	opposite of war	3.3219280948873626
+DefinedAs	president	leader of unite state	3.3219280948873626
+IsA	saxophone	wind instrument	3.3219280948873626
+HasProperty	skyscraper	very tall	3.3219280948873626
+HasProperty	child	small	3.3219280948873626
+UsedFor	mask	hide one identity	3.3219280948873626
+HasProperty	cheese	edible	3.3219280948873626
+CapableOf	turtle	hide in their shell	3.3219280948873626
+HasProperty	murder	wrong	3.3219280948873626
+Causes	attend class	learn	3.3219280948873626
+IsA	star	distant sun	3.3219280948873626
